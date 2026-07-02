@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

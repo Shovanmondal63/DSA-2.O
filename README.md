@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

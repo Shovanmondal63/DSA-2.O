@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0867-transpose-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -35,14 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0867-transpose-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

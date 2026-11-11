@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Shovanmondal63/DSA-2.O/tree/master/0867-transpose-matrix) |
 ## Two Pointers

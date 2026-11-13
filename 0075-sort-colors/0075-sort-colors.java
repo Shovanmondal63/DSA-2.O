@@ -20,18 +20,10 @@ class Solution {
 
         for(int i=0 ; i<nums.length ; i++)
         {
-            if(i<val1)
-            {
-                nums[i] = 0;
-            }
-            else if(i<val2 + val1)
-            {
-                nums[i] = 1;
-            }
-            else
-            {
-                nums[i] = 2;
-            }
+            if(i<val1) nums[i] = 0;
+
+            else if(i<val2 + val1) nums[i] = 1;
+            else nums[i] = 2;
         }
     }
 }

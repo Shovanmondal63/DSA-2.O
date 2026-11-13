@@ -4,18 +4,9 @@ class Solution {
         val1=val2=val3=0;
         for(int i=0 ; i<nums.length ; i++)
         {
-            if(nums[i] == 0)
-            {
-                val1 += 1;
-            }
-            else if(nums[i] == 1)
-            {
-                val2 += 1;
-            }
-            else
-            {
-                val3 += 1;
-            }
+            if(nums[i] == 0) val1 += 1;
+            else if(nums[i] == 1) val2 += 1;
+            else val3 += 1;
         }
 
         for(int i=0 ; i<nums.length ; i++)
